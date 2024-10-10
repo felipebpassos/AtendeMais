@@ -31,7 +31,7 @@ HealUp is a mobile application built using React Native with Redux for state man
 
 <p align="center">
   React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | OpenVidu (WebRTC) | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA)
-</p>s
+</p>
 
 <h2 id="screenshots">📱 Screenshots</h2>
 
