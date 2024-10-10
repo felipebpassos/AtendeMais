@@ -27,15 +27,21 @@ HealUp is a mobile application built using React Native with Redux for state man
 - **Two-Factor Authentication (2FA)**: Ensuring platform security and user identity verification.
 - **MySQL Database**: Relational database with optimized queries and referential integrity for data consistency.
 
+<br>
+
 <h2 id="tech">💻 Technologies</h2>
 
 <p align="center">
   React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | OpenVidu (WebRTC) | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA)
 </p>
 
+<br>
+
 <h2 id="screenshots">📱 Screenshots</h2>
 
 ![Screen Shots](https://github.com/felipebpassos/HealupPublic/blob/main/healup-screenshots.png?raw=true)
+
+<br>
 
 <h2 id="demo">🚀 Demo</h2>
 
