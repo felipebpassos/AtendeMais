@@ -10,7 +10,7 @@
 ![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/cover.png?raw=true)
 
 <p align="center">
-    <b>Telemedicine marketplace for online consultations and scheduling.</b>
+    <b>Telemedicine marketplace for online appointments and scheduling.</b>
 </p>
 
 <h2 id="about">📝 About</h2>
