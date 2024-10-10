@@ -4,25 +4,48 @@
  <a href="#about">About</a> • 
  <a href="#tech">Technologies</a> • 
  <a href="#screenshots">Screenshots</a> • 
-  <a href="#demo">Demo</a>
+ <a href="#demo">Demo</a>
 </p>
 
 ![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/cover.png?raw=true)
 
 <p align="center">
-    <b>Simple description of what your project do or how to use it</b>
+    <b>HealUp is a telemedicine mobile marketplace that connects patients and healthcare professionals, enabling online consultations, video calls, and easy scheduling and management of appointments.</b>
 </p>
+
+<h2 id="about">📝 About</h2>
+
+HealUp is a mobile application built using React Native with Redux for state management, and a Node.js Express RESTful API for the backend. It provides a comprehensive telemedicine platform with features such as:
+
+- **Schedule and Appointment Management**: Patients and healthcare professionals can manage availability, book appointments, and receive reminders.
+- **Video Calls**: Integrated video call functionality using OpenVidu (WebRTC) for secure and seamless consultations.
+- **File Uploads**: Upload and manage medical files and images directly within the app.
+- **Notifications**: Automated email notifications and push notifications to keep users updated.
+- **Payments**: Secure payment processing with credit card tokenization and PIX integration via ASAS.
+- **AWS S3**: Secure and scalable storage for files and profile photos.
+- **Real-time Notifications**: Configured WebSocket server for instant notifications.
+- **Two-Factor Authentication (2FA)**: Ensuring platform security and user identity verification.
+- **MySQL Database**: Relational database with optimized queries and referential integrity for data consistency.
 
 <h2 id="tech">💻 Technologies</h2>
 
-- list of all technologies you used
-- react
-- styled components
-- another example
+- React Native
+- Redux
+- Styled Components
+- Node.js
+- Express.js
+- MySQL
+- AWS S3
+- OpenVidu (WebRTC)
+- ASAS (Payment Integration)
+- WebSockets
+- JWT for authentication
+- Two-Factor Authentication (2FA)
 
 <h2 id="screenshots">📱 Screenshots</h2>
 
 ![Screen Shots](https://github.com/felipebpassos/HealupPublic/blob/main/healup-screenshots.png?raw=true)
 
+<h2 id="demo">🚀 Demo</h2>
 
-
+[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/link-to-your-demo-video)
