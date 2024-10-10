@@ -1,10 +1,10 @@
 <h1 align="center" style="font-weight: bold;">HealUp</h1>
 
 <p align="center">
- <a href="#tech">About</a> • 
+ <a href="#about">About</a> • 
  <a href="#tech">Technologies</a> • 
- <a href="#started">Screenshots</a> • 
-  <a href="#colab">Demo</a>
+ <a href="#screenshots">Screenshots</a> • 
+  <a href="#demo">Demo</a>
 </p>
 
 ![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/cover.png?raw=true)
@@ -13,7 +13,7 @@
     <b>Simple description of what your project do or how to use it</b>
 </p>
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="tech">💻 Technologies</h2>
 
 - list of all technologies you used
 - react
