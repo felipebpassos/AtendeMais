@@ -13,6 +13,10 @@
     <b>Telemedicine marketplace for online appointments and scheduling.</b>
 </p>
 
+<p align="center" style="color: gray;">
+    <i>⚠️ This project is currently under development.</i>
+</p>
+
 <h2 id="about">📝 About</h2>
 
 HealUp is a mobile application built using React Native with Redux for state management, and a Node.js Express RESTful API for the backend. It provides a comprehensive telemedicine platform with features such as:
