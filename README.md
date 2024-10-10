@@ -22,10 +22,8 @@ HealUp is a mobile application built using React Native with Redux for state man
 - **File Uploads**: Upload and manage medical files and images directly within the app.
 - **Notifications**: Automated email notifications and push notifications to keep users updated.
 - **Payments**: Secure payment processing with credit card tokenization and PIX integration via ASAS.
-- **AWS S3**: Secure and scalable storage for files and profile photos.
 - **Real-time Notifications**: Configured WebSocket server for instant notifications.
 - **Two-Factor Authentication (2FA)**: Ensuring platform security and user identity verification.
-- **MySQL Database**: Relational database with optimized queries and referential integrity for data consistency.
 
 <br>
 
