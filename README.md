@@ -18,6 +18,7 @@
 HealUp is a mobile application built using React Native with Redux for state management, and a Node.js Express RESTful API for the backend. It provides a comprehensive telemedicine platform with features such as:
 
 - **Schedule and Appointment Management**: Patients and healthcare professionals can manage availability, book appointments, and receive reminders.
+- **Advanced Search**: Advanced search functionality with filters to help users find professionals by specialty, price, or location.
 - **Video Calls**: Integrated video call functionality using OpenVidu (WebRTC) for secure and seamless consultations.
 - **File Uploads**: Upload and manage medical files and images directly within the app.
 - **Notifications**: Automated email notifications and push notifications to keep users updated.
