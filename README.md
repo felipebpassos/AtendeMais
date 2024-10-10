@@ -10,10 +10,10 @@
 ![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/cover.png?raw=true)
 
 <p align="center">
-    <b>HealUp is a telemedicine mobile marketplace that connects patients and healthcare professionals, enabling online consultations, video calls, and easy scheduling and management of appointments.</b>
+    <b>Telemedicine marketplace for online consultations and scheduling.</b>
 </p>
 
-<h2 id="about">📝 About</h2>
+<h2 id="about" align="center">📝 About</h2>
 
 HealUp is a mobile application built using React Native with Redux for state management, and a Node.js Express RESTful API for the backend. It provides a comprehensive telemedicine platform with features such as:
 
@@ -33,10 +33,10 @@ HealUp is a mobile application built using React Native with Redux for state man
   React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | OpenVidu (WebRTC) | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA)
 </p>
 
-<h2 id="screenshots">📱 Screenshots</h2>
+<h2 id="screenshots" align="center">📱 Screenshots</h2>
 
 ![Screen Shots](https://github.com/felipebpassos/HealupPublic/blob/main/healup-screenshots.png?raw=true)
 
-<h2 id="demo">🚀 Demo</h2>
+<h2 id="demo" align="center">🚀 Demo</h2>
 
-[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/link-to-your-demo-video)
+[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/JqQV9JfI3sA)
