@@ -38,9 +38,16 @@ HealUp is a mobile application built using React Native with Redux for state man
 
 <br>
 
-<p align="center">
-  React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | WebRTC | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA) | Push Notifications (Firebase) | Redis (Caching)
-</p>
+- **Frontend**: React Native, Styled Components
+- **State Management**: Redux
+- **Backend**: Node.js, Express.js
+- **Database**: MySQL
+- **Storage**: AWS S3 for file uploads
+- **Authentication**: JWT, Two-Factor Authentication (2FA)
+- **Payments**: ASAS for credit card and PIX integration
+- **Real-Time Communication**: WebRTC for video calls, WebSockets for notifications
+- **Caching**: Redis for optimized data retrieval
+- **Notifications**: Push Notifications with Firebase
 
 <br>
 
