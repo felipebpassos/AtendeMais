@@ -25,7 +25,7 @@ HealUp is a mobile application built using React Native with Redux for state man
 
 - **Schedule and Appointment Management**: Patients and healthcare professionals can manage availability, book appointments, and receive reminders.
 - **Advanced Search**: Advanced search functionality with filters to help users find professionals by specialty, price, or location.
-- **Video Calls**: Integrated video call functionality using OpenVidu (WebRTC) for secure and seamless consultations.
+- **Video Calls**: Integrated video call functionality using WebRTC protocol for secure and seamless consultations.
 - **File Uploads**: Upload and manage medical files and images directly within the app.
 - **Notifications**: Automated email notifications and push notifications to keep users updated.
 - **Payments**: Secure payment processing with credit card tokenization and PIX integration via ASAS.
@@ -39,7 +39,7 @@ HealUp is a mobile application built using React Native with Redux for state man
 <br>
 
 <p align="center">
-  React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | OpenVidu (WebRTC) | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA) | Push Notifications (Firebase) | Redis (Caching)
+  React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | WebRTC | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA) | Push Notifications (Firebase) | Redis (Caching)
 </p>
 
 <br>
