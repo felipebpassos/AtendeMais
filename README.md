@@ -45,7 +45,7 @@ HealUp provides an accessible telemedicine platform built with React Native that
 - **Storage**: AWS S3 for file uploads
 - **Authentication**: JWT, Two-Factor Authentication (2FA)
 - **Payments**: ASAS for credit card and PIX integration
-- **Real-Time Communication**: WebRTC for video calls, WebSockets for notifications
+- **Real-Time Communication**: WebRTC for video calls, WebSockets for live updates
 - **Caching**: Redis for optimized data retrieval
 - **Notifications**: Push Notifications with Firebase
 
