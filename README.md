@@ -9,7 +9,7 @@
  <a href="#tech">Technologies</a> • 
  <a href="#screenshots">Screenshots</a> • 
  <a href="#demo">Demo</a> • 
-    <a href="#team">Team</a>
+    <a href="#colab">Collaborators</a>
 </p>
 
 ![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/cover.png?raw=true)
@@ -64,7 +64,7 @@ HealUp provides an accessible telemedicine platform built with React Native that
 
 <br>
 
-<h2 id="team">🤝 Team</h2>
+<h2 id="colab">🤝 Collaborators</h2>
 
 <table>
   <tr>
@@ -81,14 +81,6 @@ HealUp provides an accessible telemedicine platform built with React Native that
         <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
         <sub>
           <b>Elon Musk</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
         </sub>
       </a>
     </td>
