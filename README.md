@@ -8,7 +8,7 @@
  <a href="#about">About</a> • 
  <a href="#tech">Technologies</a> • 
  <a href="#screenshots">Screenshots</a> • 
- <a href="#demo">Demo</a>
+ <a href="#demo">Demo</a> • 
     <a href="#team">Team</a>
 </p>
 
