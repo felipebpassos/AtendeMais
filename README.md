@@ -78,9 +78,9 @@ HealUp provides an accessible telemedicine platform built with React Native that
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/110487985?v=4" width="100px;" alt="Yuri Profile Picture"/><br>
         <sub>
-          <b>Elon Musk</b>
+          <b>Yuri</b>
         </sub>
       </a>
     </td>
