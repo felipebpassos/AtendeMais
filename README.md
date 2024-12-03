@@ -60,7 +60,7 @@ HealUp provides an accessible telemedicine platform built with React Native that
 
 <h2 id="demo">🚀 Demo</h2>
 
-[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/Ixuop-5_6ls)
+[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/OjWBcroxG0Y)
 
 <br>
 
