@@ -15,7 +15,7 @@
 ![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/img/healup-screenshots.png?raw=true)
 
 <p align="center">
-    <b>Telemedicine marketplace for online appointments and scheduling.</b>
+    Telemedicine marketplace for online appointments and scheduling.
 </p>
 
 <br>
