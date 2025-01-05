@@ -93,7 +93,7 @@ src/
   <i>This code snippet demonstrates how global state is managed using Redux. Each slice represents a specific feature of the application.</i>
 </p>
 
-<hr />
+<br>
 
 <h3>2. Backend (Node.js + Express.js)</h3>
 <p>
@@ -127,7 +127,7 @@ backend/
   <i>This example shows a protected route using JWT authentication to list user appointments.</i>
 </p>
 
-<hr />
+<br>
 
 <h3>3. Database (MySQL)</h3>
 <p>
@@ -144,7 +144,7 @@ backend/
   <i>This model defines the structure of the <code>appointments</code> table and its associations with other models.</i>
 </p>
 
-<hr />
+<br>
 
 <h3>4. External Integrations</h3>
 <p>
