@@ -61,6 +61,10 @@ Atende+ provides an accessible telemedicine platform built with React Native tha
     <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148088.png?raw=true" alt="Image Example" width="150px">
     <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148132.png?raw=true" alt="Image Example" width="150px">
     <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148141.png?raw=true" alt="Image Example" width="150px">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148159.png?raw=true" alt="Image Example" width="150px">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148166.png?raw=true" alt="Image Example" width="150px">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733150182.png?raw=true" alt="Image Example" width="150px">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733411624.png?raw=true" alt="Image Example" width="150px">
 </p>
 
 <br>
