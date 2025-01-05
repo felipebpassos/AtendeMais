@@ -55,7 +55,7 @@ Atende+ provides an accessible telemedicine platform built with React Native tha
 <h2 id="architecture">🏗️ Architecture</h2>
 
 <p>
-  Atende+ app is built with a modular and scalable architecture, making it easy to maintain and extend. Below is an overview of the main layers of the project along with examples from the code.
+  Atende+ was built with a modular and scalable architecture, making it easy to maintain and extend. Below is an overview of the main layers of the project along with examples from the code.
 </p>
 
 <h3>1. Frontend (React Native)</h3>
