@@ -41,8 +41,6 @@
 
 <h2 id="tech">💻 Technologies</h2>
 
-<br>
-
 - **Frontend**: React Native, Expo SDK 52, Styled Components
 - **HTTP Requests**: Axios, Fetch API for parsing and handling API requests
 - **State Management**: Redux, Context and Provider
