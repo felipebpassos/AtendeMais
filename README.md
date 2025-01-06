@@ -22,7 +22,7 @@
 
 <h2 id="about">📝 About</h2>
 
-Atende+ provides an accessible telemedicine platform built with React Native that allows patients to easily connect with healthcare professionals, schedule appointments, and have secure video consultations—all from the convenience of their mobile devices. It offers a range of features, including:
+**Atende+** provides an accessible telemedicine platform, built with **React Native** and **Node.js**, that allows patients to easily connect with healthcare professionals, schedule appointments, and have secure video consultations—all from the convenience of their mobile devices (Android and iOS). It offers a range of features, including:
 
 - **Schedule and Appointment Management**: Patients and healthcare professionals can manage availability, book appointments, and receive reminders.
 - **Advanced Search**: Advanced paginated search functionality with filters to help users find professionals by specialty, price, or location.
