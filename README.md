@@ -7,9 +7,9 @@
 <p align="center">
  <a href="#about">About</a> • 
  <a href="#tech">Technologies</a> • 
+ <a href="#architecture">Architecture</a> • 
  <a href="#screenshots">Screenshots</a> • 
- <a href="#demo">Demo</a> • 
-    <a href="#colab">Collaborators</a>
+ <a href="#colab">Collaborators</a>
 </p>
 
 ![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/img/healup-screenshots.png?raw=true)
@@ -224,12 +224,6 @@ backend/
     <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148159.png?raw=true" alt="Image Example" width="150px">
     <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148166.png?raw=true" alt="Image Example" width="150px">
 </p>
-
-<br>
-
-<h2 id="demo">🚀 Demo</h2>
-
-[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/OjWBcroxG0Y)
 
 <br>
 
