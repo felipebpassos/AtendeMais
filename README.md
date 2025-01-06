@@ -39,10 +39,11 @@
 
 <br>
 
-- **Frontend**: React Native, Styled Components
-- **State Management**: Redux
-- **Backend**: Node.js, Express.js
-- **Database**: MySQL
+- **Frontend**: React Native, Expo SDK 52, Styled Components
+- **HTTP Requests**: Axios, Fetch API for parsing and handling API requests
+- **State Management**: Redux, Context and Provider
+- **Backend**: Node.js, Express.js, API REST
+- **Database**: Sequelize, MySQL
 - **Storage**: AWS S3 for file uploads
 - **Authentication**: JWT, Two-Factor Authentication (2FA)
 - **Payments**: ASAAS for credit card and PIX integration
