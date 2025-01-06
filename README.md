@@ -19,8 +19,10 @@
 </p>
 
 <p align="center">
-    <i>See demo 👉</i>[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/OjWBcroxG0Y)
+    <i>See demo 👉</i>
 </p>
+
+[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/OjWBcroxG0Y)
 
 <br>
 
