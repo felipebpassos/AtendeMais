@@ -63,21 +63,43 @@ Atende+ provides an accessible telemedicine platform built with React Native tha
   The frontend handles all user interface interactions and consumes the backend API to fetch data and execute functionalities.
 </p>
 
-<p><b>Folder structure example:</b></p>
+<p><b>Folder structure:</b></p>
 <pre>
 <code>
 src/
 ├── components/
 │   ├── Header.js
-│   ├── Button.js
+│   ├── ButtonPrimary.js
+│   ├── ProfileImage.js
+│   ├── ProfessionalCard.js
 ├── screens/
 │   ├── LoginScreen.js
-│   ├── ScheduleScreen.js
+│   ├── PatientDashboardScreen.js
+│   ├── ProfessionalDashboardScreen.js
+│   ├── AppointmentsScreen.js
+│   ├── PaymentsScreen.js
 ├── redux/
 │   ├── slices/
-│   │   ├── authSlice.js
-│   │   ├── scheduleSlice.js
+│   │   ├── userSlice.js
+|   |   ├── searchSlice.js
+|   |   ├── promotionsSlice.js
+│   │   ├── horariosSlice.js
 │   ├── store.js
+├── context/
+|   ├── AuthContext.js
+│   ├── AlertContext.js
+│   ├── FinalizedConsultationContext.js
+├── hooks/
+│   ├── useAuth.js
+│   ├── useProfilePicture.js
+│   ├── useWebSockets.js
+├── utils/
+│   ├── formatDate.js
+│   ├── emailValidator.js
+│   ├── agendamentosUtils.js
+├── navigation/
+│   ├── DashboardTabs.js
+│   ├── StackNavigator.js
 </code>
 </pre>
 
@@ -91,6 +113,26 @@ src/
   <i>This code snippet demonstrates how global state is managed using Redux. Each slice represents a specific feature of the application.</i>
 </p>
 
+<p><b>Auth Context Example:</b></p>
+<img
+  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/auth-context-example.png?raw=true"
+  alt="Auth Context Example"
+  width="100%"
+/>
+<p>
+  <i>This example illustrates how authentication data is managed using React's Context API for sharing state globally.</i>
+</p>
+
+<p><b>Navigation Setup:</b></p>
+<img
+  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/navigation-setup-example.png?raw=true"
+  alt="Navigation Setup Example"
+  width="100%"
+/>
+<p>
+  <i>The navigation folder contains <code>DashboardTabs.js</code> for managing bottom tab navigation and <code>StackNavigator.js</code> for managing the app's stack navigator, ensuring a seamless user experience.</i>
+</p>
+
 <br>
 
 <h3>2. Backend (Node.js + Express.js)</h3>
@@ -98,7 +140,7 @@ src/
   The backend provides a RESTful API for managing data and integrates external services like ASAAS for payment processing and AWS S3 for file storage.
 </p>
 
-<p><b>Folder structure example:</b></p>
+<p><b>Folder structure:</b></p>
 <pre>
 <code>
 backend/
