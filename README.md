@@ -19,14 +19,8 @@
 </p>
 
 <p align="center">
-    <i>See demo 👇</i>
-</p>
-
-<p align="center">
     <a href="https://youtu.be/OjWBcroxG0Y"><img src="https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube"></a>
 </p>
-
-[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/OjWBcroxG0Y)
 
 <br>
 
