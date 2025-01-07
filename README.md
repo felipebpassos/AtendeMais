@@ -12,7 +12,12 @@
  <a href="#colab">Collaborators</a>
 </p>
 
-![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/img/healup-screenshots.png?raw=true)
+<p align="center">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148011.png?raw=true" alt="Image Example" width="150px">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148038.png?raw=true" alt="Image Example" width="150px">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733411624.png?raw=true" alt="Image Example" width="150px">
+    <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148141.png?raw=true" alt="Image Example" width="150px">
+</p>
 
 <p align="center">
     Telemedicine marketplace for online appointments and scheduling.
