@@ -62,11 +62,10 @@
 </p>
 
 <h3>1. Frontend (React Native)</h3>
-<p> The frontend was built using React Native with Expo SDK 52, integrating EAS for efficient build and deployment. I configured stack and tab navigation to structure the main dashboard, optimizing user flow. </p> 
-<p> The Context API was used for managing user authentication, global alerts, and other shared states across the app. This approach helped to maintain a clean and scalable state management structure. </p> 
-<p> Custom hooks were implemented for handling file uploads, WebSocket connections, and other utilities. This not only streamlined the codebase but also improved performance and maintainability. </p> 
-<p> State management was handled with Redux, ensuring consistency across screens and allowing easy access to global state. This made it easier to manage complex features like user data and app settings. </p> 
-<p> Axios was used for API communication, allowing for efficient data fetching and parsing. I implemented error handling with try/catch/finally blocks to ensure smooth error management, reducing unexpected app crashes. </p>
+<p> The frontend was built using <b>React Native</b> with <b>Expo SDK 52</b>, integrating <b>EAS</b> for efficient build and deployment. I configured <b>stack</b> and <b>tab navigation</b> to structure the main dashboard, optimizing user flow. </p> 
+<p> The <b>Context API</b> was used for managing <b>user authentication</b>, <b>global alerts</b>, and other shared states across the app. This approach helped to maintain a clean and scalable <b>state management structure</b>. <b>Custom hooks</b> were implemented for handling <b>file uploads</b>, <b>WebSocket connections</b>, and other utilities. This not only streamlined the codebase but also improved <b>performance</b> and <b>maintainability</b>. </p> 
+<p> <b>State management</b> was handled with <b>Redux</b>, ensuring consistency across screens and allowing easy access to <b>global state</b>. This made it easier to manage complex features like <b>user data</b> and <b>app settings</b>. </p> 
+<p> <b>Axios</b> was used for <b>API communication</b>, allowing for efficient <b>data fetching</b> and <b>parsing</b>. I implemented <b>error handling</b> with <b>try/catch/finally blocks</b> to ensure smooth error management, reducing unexpected app crashes. </p>
 
 <p><b>Folder structure:</b></p>
 <pre>
