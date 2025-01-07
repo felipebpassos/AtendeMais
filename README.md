@@ -192,11 +192,9 @@ backend/
 <h3>4. External Integrations</h3>
     <p>The application integrates with various external services to enhance functionality:</p>
     
-    <ul>
-        <li><strong>Payments (ASAAS)</strong>: The application processes payments via <strong>PIX</strong> and <strong>credit cards</strong> using ASAAS. This integration allows for seamless financial transactions, handling different payment methods in a secure and reliable manner.</li>
-        <li><strong>Notifications (Firebase)</strong>: The app utilizes <strong>Firebase Cloud Messaging (FCM)</strong> to send push notifications to users. Notifications are used to keep users updated on important events, such as consultation reminders and account status updates.</li>
-        <li><strong>File Storage (AWS S3)</strong>: Utilized <strong>AWS S3</strong> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented file uploads using the <strong>client-s3 SDK</strong> and configured <strong>IAM</strong> to enforce granular access control, ensuring secure and restricted data access.</li>
-    </ul>
+    <li><strong>Payments (ASAAS)</strong>: The application processes payments via <strong>PIX</strong> and <strong>credit cards</strong> using ASAAS. This integration allows for seamless financial transactions, handling different payment methods in a secure and reliable manner.</li>
+    <li><strong>Notifications (Firebase)</strong>: The app utilizes <strong>Firebase Cloud Messaging (FCM)</strong> to send push notifications to users. Notifications are used to keep users updated on important events, such as consultation reminders and account status updates.</li>
+    <li><strong>File Storage (AWS S3)</strong>: Utilized <strong>AWS S3</strong> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented file uploads using the <strong>client-s3 SDK</strong> and configured <strong>IAM</strong> to enforce granular access control, ensuring secure and restricted data access.</li>
 
 <p><b>ASAAS Integration Example:</b></p>
 <img
