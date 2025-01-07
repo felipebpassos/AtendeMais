@@ -6,7 +6,7 @@
 
 <p align="center">
  <a href="#about">About</a> • 
- <a href="#tech">Technologies</a> • 
+ <a href="#tech">Tech Stack</a> • 
  <a href="#architecture">Architecture</a> • 
  <a href="#screenshots">Screenshots</a> • 
  <a href="#colab">Collaborators</a>
@@ -40,7 +40,7 @@ It offers a range of features, including:
 
 <br>
 
-<h2 id="tech">💻 Technologies</h2>
+<h2 id="tech">💻 Technologies Stack</h2>
 
 - **Frontend**: React Native, Expo SDK 52, Styled Components
 - **HTTP Requests**: Axios, Fetch API for parsing and handling API requests
