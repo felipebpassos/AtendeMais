@@ -216,7 +216,7 @@ backend/
 <h3>5. Video Calls (WebRTC)</h3>
     <p>The application uses <b>WebRTC</b> for secure, high-quality, and real-time video consultations.</p>
 
-- **WebSocket Server**: A dedicated WebSocket server was set up for signaling purposes, enabling real-time communication between peers to exchange connection information, such as IP addresses and ports, necessary to establish direct peer-to-peer connections.
+- **WebSocket Server**: Used for signaling purposes, enabling real-time communication between peers to exchange connection information, such as IP addresses and ports, necessary to establish direct peer-to-peer connections.
 - **Peer.js**: To facilitate the peer-to-peer communication, the app utilizes Peer.js, an embedded WebRTC library that simplifies the process of establishing video calls between users. Peer.js is embedded within the app to handle signaling, establishing connections, and maintaining real-time video communication without requiring additional server-side infrastructure.
 - **STUN and TURN Servers**: To ensure seamless video connectivity, even in restrictive network environments. These servers help with NAT traversal and allow users to connect across different network topologies.
   
