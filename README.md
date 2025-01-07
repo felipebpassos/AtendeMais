@@ -12,6 +12,8 @@
  <a href="#colab">Collaborators</a>
 </p>
 
+<br>
+
 <p align="center">
     <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148011.png?raw=true" alt="Image Example" width="150px">
     <img src="https://github.com/felipebpassos/HealupPublic/blob/main/img/Screenshot_1733148038.png?raw=true" alt="Image Example" width="150px">
