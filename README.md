@@ -191,15 +191,10 @@ backend/
 
 <h3>4. External Integrations</h3>
     <p>The application integrates with various external services to enhance functionality:</p>
-    
-    <li><b>Payments (ASAAS)</b>: The application processes payments via <b>PIX</b> and <b>credit cards</b> using ASAAS. This integration allows for seamless financial transactions, handling different payment methods in a secure and reliable manner.</li>
-    <li><b>Notifications (Firebase)</b>: The app utilizes <b>Firebase Cloud Messaging (FCM)</b> to send push notifications to users. Notifications are used to keep users updated on important events, such as consultation reminders and account status updates.</li>
-    <li><b>File Storage (AWS S3)</b>: Utilized <b>AWS S3</b> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented file uploads using the <b>client-s3 SDK</b> and configured <b>IAM</b> to enforce granular access control, ensuring secure and restricted data access.</li>
 
-- **Frontend**: React Native, Expo SDK 52, Styled Components
-- **HTTP Requests**: Axios, Fetch API for parsing and handling API requests
-- **State Management**: Redux, Context and Provider
-- **Backend**: Node.js, Express.js, API REST
+- **Payments (ASAAS)**: The application processes payments via <b>PIX</b> and <b>credit cards</b> using ASAAS. This integration allows for seamless financial transactions, handling different payment methods in a secure and reliable manner.
+- **Notifications (Firebase)**: The app utilizes <b>Firebase Cloud Messaging (FCM)</b> to send push notifications to users. Notifications are used to keep users updated on important events, such as consultation reminders and account status updates.
+- **File Storage (AWS S3)**: Utilized <b>AWS S3</b> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented file uploads using the <b>client-s3 SDK</b> and configured <b>IAM</b> to enforce granular access control, ensuring secure and restricted data access.
 
 <p><b>ASAAS Integration Example:</b></p>
 <img
@@ -218,14 +213,11 @@ backend/
 <br>
 
 <h3>5. Video Calls (WebRTC)</h3>
-    <p>The application uses <strong>WebRTC</strong> for secure, high-quality, and real-time video consultations.</p>
-    
-    <ul>
-        <li><strong>Peer.js</strong>: To facilitate the peer-to-peer communication, the app utilizes <strong>Peer.js</strong>, an embedded WebRTC library that simplifies the process of establishing video calls between users. Peer.js is embedded within the app to handle signaling, establishing connections, and maintaining real-time video communication without requiring additional server-side infrastructure.</li>
-        <li><strong>STUN and TURN Servers</strong>: To ensure seamless video connectivity, even in restrictive network environments, the application configures <strong>STUN</strong> and <strong>TURN</strong> servers. These servers help with NAT traversal and allow users to connect across different network topologies.</li>
-        <li><strong>Security and Encryption</strong>: All video streams are encrypted end-to-end, ensuring that communications between users remain secure throughout the consultation.</li>
-    </ul>
+    <p>The application uses <b>WebRTC</b> for secure, high-quality, and real-time video consultations.</p>
 
+- **Peer.js**: To facilitate the peer-to-peer communication, the app utilizes Peer.js, an embedded WebRTC library that simplifies the process of establishing video calls between users. Peer.js is embedded within the app to handle signaling, establishing connections, and maintaining real-time video communication without requiring additional server-side infrastructure.
+- **STUN and TURN Servers**: To ensure seamless video connectivity, even in restrictive network environments. These servers help with NAT traversal and allow users to connect across different network topologies.
+  
 <br>
 
 <h2 id="screenshots">📱 Screenshots</h2>
