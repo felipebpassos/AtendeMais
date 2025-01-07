@@ -62,17 +62,11 @@
 </p>
 
 <h3>1. Frontend (React Native)</h3>
-<p>
-  The frontend is built using React Native and Expo SDK 52, leveraging modern tools and libraries to provide an intuitive and smooth user experience. I configured EAS (Expo Application Services) to streamline the build and deployment processes, enabling a more efficient development lifecycle.
-</p>
-
-<p>
-  For navigation, I used <b>stack navigation</b> and <b>tab navigation</b> for the main dashboard (home screen), ensuring a fluid navigation structure. The <b>Context API</b> is used for managing global states such as user authentication, global alerts, and other shared data across the app. I also implemented <b>custom hooks</b> for specific functionalities like file uploads and managing WebSocket connections, optimizing code reuse and state management.
-</p>
-
-<p>
-  The app's state is managed using <b>Redux</b>, allowing for efficient handling of global state across different screens. I also utilized various utilities for formatting dates, validating emails, and managing scheduling logic.
-</p>
+<p> The frontend was built using React Native with Expo SDK 52, integrating EAS for efficient build and deployment. I configured stack and tab navigation to structure the main dashboard, optimizing user flow. </p> 
+<p> The Context API was used for managing user authentication, global alerts, and other shared states across the app. This approach helped to maintain a clean and scalable state management structure. </p> 
+<p> Custom hooks were implemented for handling file uploads, WebSocket connections, and other utilities. This not only streamlined the codebase but also improved performance and maintainability. </p> 
+<p> State management was handled with Redux, ensuring consistency across screens and allowing easy access to global state. This made it easier to manage complex features like user data and app settings. </p> 
+<p> Axios was used for API communication, allowing for efficient data fetching and parsing. I implemented error handling with try/catch/finally blocks to ensure smooth error management, reducing unexpected app crashes. </p>
 
 <p><b>Folder structure:</b></p>
 <pre>
