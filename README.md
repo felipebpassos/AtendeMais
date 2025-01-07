@@ -63,7 +63,15 @@
 
 <h3>1. Frontend (React Native)</h3>
 <p>
-  The frontend handles all user interface interactions and consumes the backend API to fetch data and execute functionalities.
+  The frontend is built using React Native and Expo SDK 52, leveraging modern tools and libraries to provide an intuitive and smooth user experience. I configured EAS (Expo Application Services) to streamline the build and deployment processes, enabling a more efficient development lifecycle.
+</p>
+
+<p>
+  For navigation, I used <b>stack navigation</b> and <b>tab navigation</b> for the main dashboard (home screen), ensuring a fluid navigation structure. The <b>Context API</b> is used for managing global states such as user authentication, global alerts, and other shared data across the app. I also implemented <b>custom hooks</b> for specific functionalities like file uploads and managing WebSocket connections, optimizing code reuse and state management.
+</p>
+
+<p>
+  The app's state is managed using <b>Redux</b>, allowing for efficient handling of global state across different screens. I also utilized various utilities for formatting dates, validating emails, and managing scheduling logic.
 </p>
 
 <p><b>Folder structure:</b></p>
