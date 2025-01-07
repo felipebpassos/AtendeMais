@@ -203,7 +203,7 @@ backend/
 
 - **Payments (ASAAS)**: The application processes payments via <b>PIX</b> and <b>credit cards</b> using ASAAS. This integration allows for seamless financial transactions, handling different payment methods in a secure and reliable manner.
 - **Notifications (Firebase)**: The app utilizes <b>Firebase Cloud Messaging (FCM)</b> to send push notifications to users. Notifications are used to keep users updated on important events, such as consultation reminders and account status updates.
-- **File Storage (AWS S3)**: Utilized <b>AWS S3</b> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented file uploads using the <b>client-s3 SDK</b> and configured <b>IAM</b> to enforce granular access control, ensuring secure and restricted data access.
+- **File Storage (AWS S3)**: Utilized <b>AWS S3</b> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented direct file uploads using pre-signed URLs, reducing server load and ensuring secure handling of sensitive and personal files. Configured <b>IAM</b> to enforce granular access control, further enhancing the security and privacy of stored data.
 
 <p><b>ASAAS Integration Example:</b></p>
 <img
