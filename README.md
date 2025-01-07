@@ -190,14 +190,13 @@ backend/
 <br>
 
 <h3>4. External Integrations</h3>
-<p>
-  The application integrates with various external services to enhance functionality:
-</p>
-<ul>
-  <li><b>Payments (ASAAS):</b> For processing payments via PIX and credit cards.</li>
-  <li><b>Video Calls (WebRTC):</b> For secure and seamless online consultations.</li>
-  <li><b>Notifications (Firebase):</b> For push notifications to keep users updated.</li>
-</ul>
+    <p>The application integrates with various external services to enhance functionality:</p>
+    
+    <ul>
+        <li><strong>Payments (ASAAS)</strong>: The application processes payments via <strong>PIX</strong> and <strong>credit cards</strong> using ASAAS. This integration allows for seamless financial transactions, handling different payment methods in a secure and reliable manner.</li>
+        <li><strong>Notifications (Firebase)</strong>: The app utilizes <strong>Firebase Cloud Messaging (FCM)</strong> to send push notifications to users. Notifications are used to keep users updated on important events, such as consultation reminders and account status updates.</li>
+        <li><strong>File Storage (AWS S3)</strong>: Utilized <strong>AWS S3</strong> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented file uploads using the <strong>client-s3 SDK</strong> and configured <strong>IAM</strong> to enforce granular access control, ensuring secure and restricted data access.</li>
+    </ul>
 
 <p><b>ASAAS Integration Example:</b></p>
 <img
@@ -205,6 +204,24 @@ backend/
   alt="ASAAS Integration Example"
   width="100%"
 />
+
+<p><b>AWS S3 Integration Example:</b></p>
+<img
+  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/asaas-integration-example.png?raw=true"
+  alt="ASAAS Integration Example"
+  width="100%"
+/>
+
+<br>
+
+<h3>5. Video Calls (WebRTC)</h3>
+    <p>The application uses <strong>WebRTC</strong> for secure, high-quality, and real-time video consultations.</p>
+    
+    <ul>
+        <li><strong>Peer.js</strong>: To facilitate the peer-to-peer communication, the app utilizes <strong>Peer.js</strong>, an embedded WebRTC library that simplifies the process of establishing video calls between users. Peer.js is embedded within the app to handle signaling, establishing connections, and maintaining real-time video communication without requiring additional server-side infrastructure.</li>
+        <li><strong>STUN and TURN Servers</strong>: To ensure seamless video connectivity, even in restrictive network environments, the application configures <strong>STUN</strong> and <strong>TURN</strong> servers. These servers help with NAT traversal and allow users to connect across different network topologies.</li>
+        <li><strong>Security and Encryption</strong>: All video streams are encrypted end-to-end, ensuring that communications between users remain secure throughout the consultation.</li>
+    </ul>
 
 <br>
 
