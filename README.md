@@ -156,15 +156,47 @@ src/
 <pre>
 <code>
 backend/
+├── config/
+│   ├── awsS3.js
+│   ├── db.js
+│   ├── firebase.js
 ├── controllers/
-│   ├── authController.js
-│   ├── appointmentController.js
+│   ├── usersController.js
+│   ├── scheduleController.js
+│   ├── paymentsController.js
+│   ├── searchController.js
+│   ├── fileController.js
+├── middleware/
+│   ├── auth.js
+│   ├── webhookAuth.js
 ├── models/
 │   ├── User.js
+│   ├── Professional.js
 │   ├── Appointment.js
+│   ├── PaymentMethod.js
+│   ├── Payment.js
+│   ├── File.js
+│   ├── Search.js
 ├── routes/
-│   ├── authRoutes.js
-│   ├── appointmentRoutes.js
+│   ├── users.js
+│   ├── schedules.js
+│   ├── payments.js
+│   ├── files.js
+│   ├── searches.js
+├── services/
+│   ├── usersService.js
+│   ├── scheduleService.js
+│   ├── paymentsService.js
+│   ├── searchService.js
+│   ├── fileService.js
+│   ├── s3Service.js
+├── sockets/
+│   ├── schedules.js
+│   ├── notifications.js
+├── workers/
+│   ├── cancelAppointment.js
+│   ├── finalizeAppointment.js
+│   ├── startAppointment.js
 ├── app.js
 </code>
 </pre>
