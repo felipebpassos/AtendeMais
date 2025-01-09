@@ -160,6 +160,7 @@ backend/
 │   ├── awsS3.js
 │   ├── db.js
 │   ├── firebase.js
+│   ├── redis.js
 ├── controllers/
 │   ├── usersController.js
 │   ├── scheduleController.js
