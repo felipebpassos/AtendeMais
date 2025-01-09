@@ -164,8 +164,6 @@ backend/
 │   ├── usersController.js
 │   ├── scheduleController.js
 │   ├── paymentsController.js
-│   ├── searchController.js
-│   ├── fileController.js
 ├── middleware/
 │   ├── auth.js
 │   ├── webhookAuth.js
@@ -175,20 +173,14 @@ backend/
 │   ├── Appointment.js
 │   ├── PaymentMethod.js
 │   ├── Payment.js
-│   ├── File.js
-│   ├── Search.js
 ├── routes/
 │   ├── users.js
 │   ├── schedules.js
 │   ├── payments.js
-│   ├── files.js
-│   ├── searches.js
 ├── services/
 │   ├── usersService.js
 │   ├── scheduleService.js
 │   ├── paymentsService.js
-│   ├── searchService.js
-│   ├── fileService.js
 │   ├── s3Service.js
 ├── sockets/
 │   ├── schedules.js
