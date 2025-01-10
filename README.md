@@ -213,7 +213,7 @@ backend/
 
 <p><b>Sequelize Model Example:</b></p>
 <img
-  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/sequelize-model-example.png?raw=true"
+  src="https://github.com/felipebpassos/AtendeMais/blob/main/img/model.png?raw=true"
   alt="Sequelize Model Example"
   width="100%"
 />
