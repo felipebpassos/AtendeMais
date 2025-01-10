@@ -232,10 +232,12 @@ backend/
 
 <p><b>ASAAS Integration Example:</b></p>
 <img
-  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/asaas-integration-example.png?raw=true"
+  src="https://github.com/felipebpassos/AtendeMais/blob/main/img/asaas.png?raw=true"
   alt="ASAAS Integration Example"
   width="100%"
 />
+
+<br>
 
 <p><b>AWS S3 Integration Example:</b></p>
 <img
