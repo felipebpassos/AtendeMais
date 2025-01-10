@@ -230,7 +230,7 @@ backend/
 - **Notifications (Firebase)**: The app utilizes <b>Firebase Cloud Messaging (FCM)</b> to send push notifications to users. Notifications are used to keep users updated on important events, such as consultation reminders and account status updates.
 - **File Storage (AWS S3)**: Utilized <b>AWS S3</b> for secure, scalable file storage, enabling efficient management of files such as images and documents. Implemented direct file uploads using pre-signed URLs, reducing server load and ensuring secure handling of sensitive and personal files. Configured <b>IAM</b> to enforce granular access control, further enhancing the security and privacy of stored data.
 
-<p><b>ASAAS Integration Example:</b></p>
+<p><b>ASAAS Integration:</b></p>
 <img
   src="https://github.com/felipebpassos/AtendeMais/blob/main/img/asaas.png?raw=true"
   alt="ASAAS Integration Example"
@@ -239,7 +239,7 @@ backend/
 
 <br>
 
-<p><b>AWS S3 Integration Example:</b></p>
+<p><b>AWS S3 Integration:</b></p>
 <img
   src="https://github.com/felipebpassos/AtendeMais/blob/main/img/s3.png?raw=true"
   alt="ASAAS Integration Example"
