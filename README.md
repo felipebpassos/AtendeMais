@@ -239,7 +239,7 @@ backend/
 
 <p><b>AWS S3 Integration Example:</b></p>
 <img
-  src="https://github.com/felipebpassos/AtendeMais/blob/main/img/awss3.png?raw=true"
+  src="https://github.com/felipebpassos/AtendeMais/blob/main/img/s3.png?raw=true"
   alt="ASAAS Integration Example"
   width="100%"
 />
