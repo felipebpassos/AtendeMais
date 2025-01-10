@@ -9,7 +9,7 @@
  <a href="#tech">Tech Stack</a> • 
  <a href="#architecture">Architecture</a> • 
  <a href="#screenshots">Screenshots</a> • 
- <a href="#colab">Collaborators</a>
+ <a href="#team">Team</a>
 </p>
 
 <br>
@@ -272,7 +272,7 @@ backend/
 
 <br>
 
-<h2 id="colab">🤝 Collaborators</h2>
+<h2 id="team">🤝 Team</h2>
 
 <table>
   <tr>
