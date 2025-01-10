@@ -241,7 +241,7 @@ backend/
 <img
   src="https://github.com/felipebpassos/AtendeMais/blob/main/img/awss3.png?raw=true"
   alt="ASAAS Integration Example"
-  width="100%"
+  width="400"
 />
 
 <br>
