@@ -115,6 +115,8 @@ src/
 </code>
 </pre>
 
+<br>
+
 <p><b>Redux Slice Example:</b></p>
 <img
   src="https://github.com/felipebpassos/AtendeMais/blob/main/img/redux.png?raw=true"
@@ -125,6 +127,8 @@ src/
   <i>This code snippet demonstrates how global state is managed using Redux. Each slice represents a specific feature or object of the application.</i>
 </p>
 
+<br>
+
 <p><b>Auth Context Example:</b></p>
 <img
   src="https://github.com/felipebpassos/HealupPublic/blob/main/img/auth-context-example.png?raw=true"
@@ -134,6 +138,8 @@ src/
 <p>
   <i>This example illustrates how authentication data is managed using React's Context API for sharing state globally.</i>
 </p>
+
+<br>
 
 <p><b>Navigation Setup:</b></p>
 <img
