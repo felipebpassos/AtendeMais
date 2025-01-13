@@ -117,7 +117,7 @@ src/
 
 <p><b>Redux Slice Example:</b></p>
 <img
-  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/redux-slice-example.png?raw=true"
+  src="https://github.com/felipebpassos/AtendeMais/blob/main/img/redux.png?raw=true"
   alt="Redux Slice Example"
   width="100%"
 />
@@ -194,9 +194,9 @@ backend/
 </code>
 </pre>
 
-<p><b>Express Route Example:</b></p>
+<p><b>Rota para manipulação (upload e get) de arquivos:</b></p>
 <img
-  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/express-route-example.png?raw=true"
+  src="https://github.com/felipebpassos/AtendeMais/blob/main/img/rota.png?raw=true"
   alt="Express Route Example"
   width="100%"
 />
