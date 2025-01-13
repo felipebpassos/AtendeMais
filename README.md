@@ -202,7 +202,7 @@ backend/
 </code>
 </pre>
 
-<p><b>Rota para manipulação (upload e get) de arquivos:</b></p>
+<p><b>Route for File Handling</b></p>
 <img
   src="https://github.com/felipebpassos/AtendeMais/blob/main/img/rota.png?raw=true"
   alt="Express Route Example"
