@@ -143,7 +143,7 @@ src/
 
 <p><b>Navigation Setup:</b></p>
 <img
-  src="https://github.com/felipebpassos/HealupPublic/blob/main/img/navigation-setup-example.png?raw=true"
+  src="https://github.com/felipebpassos/AtendeMais/blob/main/img/nav.png?raw=true"
   alt="Navigation Setup Example"
   width="100%"
 />
