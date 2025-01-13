@@ -122,7 +122,7 @@ src/
   width="100%"
 />
 <p>
-  <i>This code snippet demonstrates how global state is managed using Redux. Each slice represents a specific feature of the application.</i>
+  <i>This code snippet demonstrates how global state is managed using Redux. Each slice represents a specific feature or object of the application.</i>
 </p>
 
 <p><b>Auth Context Example:</b></p>
