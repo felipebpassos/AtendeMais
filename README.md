@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-    <a href="https://youtu.be/OjWBcroxG0Y"><img src="https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube"></a>
+    <a href="https://youtube.com/shorts/MNBTZz9jIx4"><img src="https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube"></a>
 </p>
 
 <br>
