@@ -70,7 +70,7 @@ It offers a range of features, including:
 </p>
 
 <h3>1. Frontend (React Native)</h3>
-<p> The frontend was built using <b>React Native</b> with <b>Expo SDK 52</b>, integrating <b>EAS</b> for efficient build and deployment. I configured <b>stack</b> and <b>tab navigation</b> to structure the main dashboard, optimizing user flow. </p> 
+<p> The frontend was built using <b>React Native</b> with <b>Expo SDK 52</b>, integrating <b>EAS</b> for efficient build and deployment. It was configured <b>stack</b> and <b>tab navigation</b> to structure the main dashboard, optimizing user flow. </p> 
 <p> <b>State management</b> was handled with <b>Redux</b>, ensuring consistency across screens and allowing easy access to <i>global state</i>. This made it easier to manage complex features like <i>user data</i> and <i>app settings</i>. </p> 
 <p> The <b>Context API</b> was used for managing <i>user authentication</i>, <i>global alerts</i>, and other shared states across the app. This approach helped to maintain a clean and scalable state management structure. <b>Custom hooks</b> were implemented for handling <i>file uploads</i>, <i>WebSocket connections</i>, and other utilities. This not only streamlined the codebase but also improved performance and maintainability. </p> 
 <p> <b>Axios</b> was used for <b>API communication</b>, allowing for efficient data <b>fetching</b> and <b>parsing</b>. I implemented <i>error handling</i> with <b>try/catch/finally</b> blocks to ensure smooth error management, reducing unexpected app crashes. </p>
